@@ -1,0 +1,78 @@
+﻿  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+E:\github\Ludo_github\LUDO-Board-Game\drawing.cxx(819,9): warning C4101: 'tries': unreferenced local variable
+E:\github\Ludo_github\LUDO-Board-Game\drawing.cxx(859,10): warning C4101: 'answer': unreferenced local variable
+E:\github\Ludo_github\LUDO-Board-Game\drawing.cxx(1110,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  file.cxx
+  board.cpp
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\board.cpp(105,21): warning C4018: '<': signed/unsigned mismatch
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\board.cpp(213,30): warning C4018: '<': signed/unsigned mismatch
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\board.cpp(327,20): warning C4018: '<': signed/unsigned mismatch
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\board.cpp(353,7): warning C4101: 'sixPresent': unreferenced local variable
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\board.cpp(469,30): warning C4018: '<': signed/unsigned mismatch
+  Box.cpp
+  Dice.cpp
+E:\github\Ludo_github\LUDO-Board-Game\graphics.h(281,13): warning C4273: 'getch': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(444,30): message : see previous definition of 'getch'
+E:\github\Ludo_github\LUDO-Board-Game\graphics.h(282,13): warning C4273: 'kbhit': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(450,30): message : see previous definition of 'kbhit'
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\Dice.cpp(150,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\Dice.cpp(151,11): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\github\Ludo_github\LUDO-Board-Game\LUDO\Dice.cpp(157,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Piece.cpp
+  Player.cpp
+  misc.cxx
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(595,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(596,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(597,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(598,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+E:\github\Ludo_github\LUDO-Board-Game\misc.cxx(599,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  palette.cxx
+  main.cxx
+  text.cxx
+E:\github\Ludo_github\LUDO-Board-Game\text.cxx(347,19): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+E:\github\Ludo_github\LUDO-Board-Game\winbgi.cxx(134,14): warning C4101: 'actual_color': unreferenced local variable
+E:\github\Ludo_github\LUDO-Board-Game\winbgi.cxx(133,9): warning C4101: 'bgi_color': unreferenced local variable
+E:\github\Ludo_github\LUDO-Board-Game\winbgi.cxx(494,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  winthread.cxx
+E:\github\Ludo_github\LUDO-Board-Game\winthread.cxx(320,9): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  bgi.vcxproj -> E:\github\Ludo_github\LUDO-Board-Game\Debug\bgi.exe
